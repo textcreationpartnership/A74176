@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Hell or the relation of a vision.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74176</idno>
+            <idno type="STC">Thomason 669.f.24[42]</idno>
+            <idno type="STC">ESTC R211754</idno>
+            <idno type="EEBO-CITATION">99870457</idno>
+            <idno type="PROQUEST">99870457</idno>
+            <idno type="VID">163773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163773)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f24[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Hell or the relation of a vision.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "March 28 1660".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:163773:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>NEWS FROM HELL; Or the Relation of a VISION.</head>
+            <lg>
+               <l>ME thought I ſaw before mine eyes</l>
+               <l>A meagre Ghoſt to ſtand:</l>
+               <l>And if my fancie judg'd aright</l>
+               <l>'Twas one of <hi>Pluto</hi>'s Band.</l>
+               <l>Thou gaſtly Ghoſt I charge thee ſpeak,</l>
+               <l>And ſhew the reaſon why</l>
+               <l>Thou wafteſt through the <hi>Stygion</hi> Lake</l>
+               <l>To fright mortality.</l>
+            </lg>
+            <lg>
+               <l>Yes mortal wretch, ſee I am come</l>
+               <l>From our infernal King,</l>
+               <l>From whom to 'th' <hi>Engliſh</hi> Nation</l>
+               <l>Strange dolefull News do bring:</l>
+               <l>Such News it is will make mens hearts</l>
+               <l>To quake for diſmal fear,</l>
+               <l>To what I therefore ſhall relate</l>
+               <l>Lend an attentive Eare.</l>
+            </lg>
+            <lg>
+               <l>A great man lately to us came</l>
+               <l>And tydings thither brought</l>
+               <l>That treaſon 'gainſt great <hi>Pluto</hi>'s State</l>
+               <l>The <hi>Engliſh</hi> Nation wrought.</l>
+               <l>That very word of Treaſon did</l>
+               <l>
+                  <hi>Belzebub</hi> ſo affright,</l>
+               <l>That of all courage for a while</l>
+               <l>He was bereaved quite.</l>
+            </lg>
+            <lg>
+               <l>At length recover'd he burſt forth,</l>
+               <l>And thus in fury ſpoke,</l>
+               <l>Thou wretch with this thy curſed news</l>
+               <l>How durſt thou me provoke?</l>
+               <l>What? <hi>England</hi> my ſweet darling dear</l>
+               <l>Againſt me Treaſon-plot!</l>
+               <l>
+                  <hi>England</hi> ſo late by us regain'd?</l>
+               <l>Tuſh I believe it not.</l>
+            </lg>
+            <lg>
+               <l>How many of my truſty ſprites</l>
+               <l>Have I therein imploy'd,</l>
+               <l>In whoſe ſuccesful labours I</l>
+               <l>Theſe ſixteen years have joyed;</l>
+               <l>My firſt born ſpirit of <hi>Pride</hi> I ſent,</l>
+               <l>Who Acts ſo well his part,</l>
+               <l>There's ſcarſe a man but he hath took</l>
+               <l>poſſeſſion of his heart.</l>
+            </lg>
+            <lg>
+               <l>The Spirit of <hi>Mammon</hi> alſo is</l>
+               <l>Of all ſo deified,</l>
+               <l>As if the <hi>Engliſh</hi> Nation knew</l>
+               <l>No other God beſide;</l>
+               <l>The Spirit of <hi>Luſt</hi> and of the world,</l>
+               <l>I, of envy and of lies,</l>
+               <l>Have alſo place allotted them</l>
+               <l>For their ſolemnities.</l>
+            </lg>
+            <lg>
+               <l>But what black Sugar-candid tricks</l>
+               <l>Doth th' Spirit of Errrour play?</l>
+               <l>Who as the Wind, the Weather-cock,</l>
+               <l>Mens Brains turn's every way.</l>
+               <l>Now this opinion they embrace,</l>
+               <l>And by and by another,</l>
+               <l>Both theſe diſl<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k'd, a third is beſt,</l>
+               <l>Taught by an holy Brother.</l>
+            </lg>
+            <lg>
+               <l>Shall all this labour care and pains</l>
+               <l>(My <hi>England</hi> to regain)</l>
+               <l>Which I, and all my Spiris have tane,</l>
+               <l>Prove fruitleſſe and in vane,</l>
+               <l>Will <hi>England</hi> now from me revolt,</l>
+               <l>And plot againſt my State?</l>
+               <l>Whithout whoſe help and council they</l>
+               <l>Themſelves will ruinate.</l>
+            </lg>
+            <lg>
+               <l>'Tis true, they broke their Oaths and Vows</l>
+               <l>Which they to Heaven made,</l>
+               <l>But yet with me to break their League</l>
+               <l>I am ſure they are afraid.</l>
+               <l>May it pleaſe your horrid Devilſhip?</l>
+               <l>The new come Gueſt doth cry,</l>
+               <l>May not the News I brought diſturb</l>
+               <l>Your helliſh Majeſty.</l>
+            </lg>
+            <lg>
+               <l>But if it be not treaſon too</l>
+               <l>What is the truth to tell,</l>
+               <l>For truth ſhould not (it is confeſt)</l>
+               <l>At all be ſpoke in Hell;</l>
+               <l>But truth it is, there is ſprung up</l>
+               <l>In <hi>England,</hi> late, a Sect,</l>
+               <l>Who teach, Salvation doth belong</l>
+               <l>To all, without reſpect.</l>
+            </lg>
+            <lg>
+               <l>Make haſte now to return again,</l>
+               <l>Aſſume ſome body ſtrate,</l>
+               <l>And tell ſome Mortall Wight who may,</l>
+               <l>What I ſhall ſpeak, relate;</l>
+               <l>Tell them although they do prevent</l>
+               <l>Me in my great deſigne,</l>
+               <l>Yet ſhall they not my vengeance ſcape</l>
+               <l>For I have Rods in Brine.</l>
+            </lg>
+            <lg>
+               <l>I'le muſter Legions of my Spirits,</l>
+               <l>And with them council take,</l>
+               <l>How 'mong the ſottiſh Elves I may</l>
+               <l>Greateſt confuſion make.</l>
+               <l>This Mortal Wight's the news which I</l>
+               <l>Came hither thee to tell;</l>
+               <l>My Errand's done, and I muſt now</l>
+               <l>Return again to Hell.</l>
+            </lg>
+            <closer>
+               <dateline>
+                  <date>
+                     <add>March: 28 1660</add>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
